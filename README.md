@@ -23,6 +23,9 @@ These modules have been selected as they represent a common aspect of a vast maj
 of bionformatics workflows. It is important to note that the modules can be combined independently, 
 and ultimately provide 4 different modes of operation.
 
+This work was spawned from parallel activities at the [BCPL lab](https://bcplab.wordpress.com/) (previously CGU) at CERTH and inspired by data, algorithms and protocols developed previously in conjunction with those activities.
+
+
  * Submit bug reports and feature suggestions: olgavrou@gmail.com
  
 --------------- 
